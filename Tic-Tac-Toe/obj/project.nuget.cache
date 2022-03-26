@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "myp3AyQMAWxsqQzsHiK+4colI0E5LjnOUiMZTMD5NZcXflHg+10kcjSDYh8x9P5C2F27wetJQsOqXp3O+PjGBA==",
   "success": true,
   "projectFilePath": "C:\\Repos\\Advanced-repos\\Lab04-Classes-objects-tic-tac-toe\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj",
+=======
+  "dgSpecHash": "GqKyZ7l6VyIrg6rSr/GBF4F69SY9eI2jMjTgtPOQZyymU0IIEoDQYPyHZirXy2DXtSVZChwdYo65fz7fpWcfGA==",
+  "success": true,
+  "projectFilePath": "D:\\Advanced-repos\\Lab04-Classes-objects-tic-tac-toe-\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj",
+>>>>>>> d8f30e70a85326ae5de860706bcb3ef8dae526b7
   "expectedPackageFiles": [],
   "logs": []
 }

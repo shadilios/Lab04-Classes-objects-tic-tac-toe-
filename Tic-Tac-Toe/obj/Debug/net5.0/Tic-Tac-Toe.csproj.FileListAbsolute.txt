@@ -1,0 +1,16 @@
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.csproj.AssemblyReference.cache
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.AssemblyInfoInputs.cache
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.AssemblyInfo.cs
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\bin\Debug\net5.0\Tic-Tac-Toe.exe
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\bin\Debug\net5.0\Tic-Tac-Toe.deps.json
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\bin\Debug\net5.0\Tic-Tac-Toe.runtimeconfig.json
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\bin\Debug\net5.0\Tic-Tac-Toe.runtimeconfig.dev.json
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\bin\Debug\net5.0\Tic-Tac-Toe.dll
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\bin\Debug\net5.0\Tic-Tac-Toe.pdb
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.dll
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\refint\Tic-Tac-Toe.dll
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.pdb
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\Tic-Tac-Toe.genruntimeconfig.cache
+C:\Repos\Advanced-repos\Lab04-Classes-objects-tic-tac-toe\Tic-Tac-Toe\obj\Debug\net5.0\ref\Tic-Tac-Toe.dll
